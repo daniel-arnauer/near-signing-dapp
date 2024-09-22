@@ -1,6 +1,6 @@
 # Quickstart
 
-This is a fork of [**near guest book (not existing anymoren)**](https://github.com/near-examples/guest_book-js)
+This is a fork of [**near guest book (not existing anymore)**](https://github.com/near-examples/guest_book-js)
 The new version: [**near guest book (new repo)**](https://github.com/near-examples/guest-book-examples)
 
 ### 1. Install Dependencies
